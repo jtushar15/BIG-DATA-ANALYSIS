@@ -26,11 +26,17 @@ PySpark allows seamless integration of SQL queries with DataFrame transformation
 
 # OUTPUTS:-
 
+Airpots_data:
 ![Image](https://github.com/user-attachments/assets/bac69899-fb89-4bc3-9a9d-7f72470c9647)
 
+Filghts_data:
 ![Image](https://github.com/user-attachments/assets/5e9e7261-1ccc-4428-b7a0-667f3fabc8e0)
 
+Planes_data:
 ![Image](https://github.com/user-attachments/assets/e1edaa5b-d934-416a-9178-70fc8b3ba2c2)
+
+Output of Analysis:
+![Image](https://github.com/user-attachments/assets/2af5c805-d450-4b88-a71d-0daf6da779a3)
 
 # Conclusion of the PySpark Project
 This PySpark project demonstrates how to efficiently process and analyze large datasets using Apache Spark. By leveraging SparkContext and SparkSession, the project sets up a scalable environment for handling distributed data. The integration of Pandas with PySpark highlights the transition from small-scale data processing to a big data framework, ensuring flexibility in data analysis.
